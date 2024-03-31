@@ -1,4 +1,4 @@
-# 🤖 Reinforcement from Human Feedback In Practice
+# 🤖 RLHF: Reinforcement from Human Feedback In Practice
 
 In this repo, we'll be working toward reducing toxicity in a base model. The base model we'll be using is the Zephyr-7b-alpha model! This project was done during Week 4 of AI Makerspace's LLM Engineering Cohort 2 (LLME2).
 
